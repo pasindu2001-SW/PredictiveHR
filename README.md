@@ -4,10 +4,6 @@
 
 PredictiveHR is an intelligent HR Churn Prediction System that helps organizations predict whether an employee is likely to resign or stay in the company. The system uses machine learning algorithms to analyze various employee metrics and provide actionable insights for HR teams.
 
-## 🔗 Repository
-
-[https://github.com/NavvAbhishek/PredictiveHR.git](https://github.com/NavvAbhishek/PredictiveHR.git)
-
 ## ✨ Features
 
 - **Employee Churn Prediction**: Predict resignation probability using machine learning
@@ -57,7 +53,7 @@ PredictiveHR is an intelligent HR Churn Prediction System that helps organizatio
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/NavvAbhishek/PredictiveHR.git
+   git clone https://github.com/pasindu2001-SW/PredictiveHR.git
    cd PredictiveHR
    ```
 
@@ -162,21 +158,6 @@ PredictiveHR/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-- **NavvAbhishek** - *Initial work* - [GitHub Profile](https://github.com/NavvAbhishek)
-
-## 🆘 Support
-
-If you encounter any issues or have questions, please:
-
-1. Check the [Issues](https://github.com/NavvAbhishek/PredictiveHR/issues) page
-2. Create a new issue if your problem isn't already listed
-3. Provide detailed information about the problem and your environment
 
 ## 🔮 Future Enhancements
 
